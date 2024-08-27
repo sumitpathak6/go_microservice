@@ -1,4 +1,4 @@
-package applicaion
+package application
 
 import (
 	"context"
